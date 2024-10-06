@@ -31,8 +31,8 @@ if prompt:
 
     with st.spinner("Working..."):
         #URL = 'https://elastic.snaplogic.com/api/1/rest/slsched/feed/SnapLogic-PS-Team/GenAI/shared/ToolCallingStep2%20Task'
-        URL='http://snapgpt.labs.snaplogic.com/api/1/rest/slsched/feed/snaplogic/Gyanesh%20Kumar/shared/ProspectingAssitant%20Task'
-        BEARER_TOKEN ='12345'
+        URL='http://xxxxxxxxxxxxxxxxxx/api/1/rest/slsched/feed/snaplogic/yyyyyyyyyyy/shared/ProspectingAssitant%20Task'
+        BEARER_TOKEN ='xxxxxxxxxxxxx'
     
         data = {"prompt" : prompt}
     
